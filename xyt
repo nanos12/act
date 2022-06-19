@@ -1,0 +1,1 @@
+vmess=qiqis.cf:443, method=aes-128-gcm, password=7f1afd9d-9f1d-4b26-9395-aa11111465e3, obfs=wss, obfs-host=jixu2.qiqis.ml, obfs-uri=/99845c/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=西雅图
